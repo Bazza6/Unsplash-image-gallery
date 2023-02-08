@@ -49,9 +49,8 @@ function App() {
           <StyledUl>
             {images.map((photo) => {
               return (
-                <StyledLi>
+                <StyledLi key={photo.id}>
                   <StyledImg
-                    key={photo.id}
                     src={photo.urls.regular}
                     alt={photo.alt_description}
                   />
