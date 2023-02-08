@@ -4,7 +4,7 @@ Este proyecto es una aplicación que muestra imágenes aleatorias utilizando la 
 
 ## Demo
 
-👉 [aqui]()
+👉 [aqui](https://unsplash-image-gallery-ten.vercel.app/)
 
 ## Description
 
@@ -15,7 +15,7 @@ El proyecto está hecho con React y estilado con styled-components. Se ha decidi
 
 ## Instalación
 
-1. Clona el repositorio en tu equipo: git clone https://github.com/bazza6/random-images-app.git
+1. Clona el repositorio en tu equipo: git clone https://github.com/Bazza6/Unsplash-image-gallery.git
 2. Instala las dependencias: `npm install`
 3. Crea un archivo .env en la raíz del proyecto y agrega tu clave de acceso de Unsplash API: VITE_ACCESS_KEY=tu_clave_de_acceso
 4. Inicia el servidor de desarrollo: `npm run dev`
